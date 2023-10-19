@@ -1,8 +1,8 @@
-# DSA-Practice
-1.Arrays and Hashing
-  Anagram
-  Checking Duplicates
-  Group Anagrams
+# DSA-Practice\n
+1.Arrays and Hashing\n
+  Anagram\n
+  Checking Duplicates\n
+  Group Anagrams\n
   Two sum
   Rotate Array Right
 2.Greedy Algorithm
