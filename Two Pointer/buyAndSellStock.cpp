@@ -2,7 +2,7 @@
 int maxProfit(vector<int>& prices) {
         if(prices.size()<2)
         {
-            return 0;
+            return 0;                        //sliding window algo can be used
         }
 
         int minprice=prices[0];
